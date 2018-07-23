@@ -1,0 +1,37 @@
+body {
+    background-image: url(
+        "https://www.acg.org/sites/files/styles/masthead_1440/public/acg-san-diego-2880x1200.jpg?itok=S6EumAjl"
+        );
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;  
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 
+    'Lucida Sans Regular', 
+    'Lucida Grande', 
+    'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+}
+
+#background {
+    background-color: gray;
+    margin: auto;
+}
+
+table {
+    display: block;
+    border: solid black 2px;
+    margin: auto;
+    width: 70%;
+}
+
+td {
+    border: solid black 2px;
+    border-collapse: collapse;
+    padding: 20px 20px;
+    width: 30%;
+    font-family: 'Verdana';
+}
